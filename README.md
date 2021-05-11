@@ -37,12 +37,6 @@
     <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=flat-square&logo=opencv&logoColor=white"/>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
-    <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
-    <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
-</p>
-<p align="center">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>   
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
