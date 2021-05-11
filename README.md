@@ -1,7 +1,7 @@
 ## 👋🏻 Hi there  
 
-- 👨🏻‍💼  Java 4th year developer & studying AI development!
-- 💻  usually using Python&Java language for programmming
+- 👨🏻‍💼  studying AI development!
+- 💻  usually using Python language for programmming
 <br>
 
 <table><tr><td valign="top" width="50%">
