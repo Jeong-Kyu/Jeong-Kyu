@@ -16,6 +16,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/jare92n)](https://www.kaggle.com/jare92n)
 [![Mendeley](https://img.shields.io/badge/Dacon-151F5D?style=flat-square&logo=Mendeley&logoColor=white&link=https://dacon.io/myprofile/416700/home/)](https://dacon.io/myprofile/416700/home/)
 
+Notion(https://www.notion.so/276c865588b041c3b1e982d8fca2c51b)
 <br>
 
 ## 📑 Certificate
@@ -39,6 +40,5 @@
 <p align="center">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>   
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-    <img src=https://user-images.githubusercontent.com/71429253/119464349-9dbe7b00-bd7d-11eb-9dd5-2a0f88185037.jpg>
 
 </p>
