@@ -1,7 +1,8 @@
 ## 👋🏻 Hi there  
 
 - 👨🏻‍💼  studying AI development!
-- 💻  usually using Python language for programmming
+- 💻  usually using Python language for programing!
+- 💻  Learn deep learning, machine learning!
 <br>
 
 <table><tr><td valign="top" width="50%">
