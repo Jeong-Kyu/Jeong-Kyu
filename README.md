@@ -43,3 +43,7 @@ Notion(https://www.notion.so/276c865588b041c3b1e982d8fca2c51b)
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 
 </p>
+<p align="center">
+    <img alt="Sgan" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>  
+
+</p>
