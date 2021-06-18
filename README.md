@@ -1,4 +1,4 @@
-## 👋🏻 Hi there  
+## 👋🏻 Hi there !
 
 - 👨🏻‍💼  studying AI development!
 - 💻  usually using Python language for programing!
