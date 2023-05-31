@@ -28,6 +28,8 @@ Notion(https://www.notion.so/276c865588b041c3b1e982d8fca2c51b)
 
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>   
+    <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/> </p>
 </p>
 <p align="center">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" />
@@ -36,9 +38,6 @@ Notion(https://www.notion.so/276c865588b041c3b1e982d8fca2c51b)
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white" />
     <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=flat-square&logo=opencv&logoColor=white"/>
 </p>
-<p align="center">
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>   
-    <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/> </p>
 <br>
 
 ## 📖 Repository
