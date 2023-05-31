@@ -16,14 +16,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jare92n@gmail.com)](mailto:jare92n@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/jare92n)](https://www.kaggle.com/jare92n)
 [![Mendeley](https://img.shields.io/badge/Dacon-151F5D?style=flat-square&logo=Mendeley&logoColor=white&link=https://dacon.io/myprofile/416700/home/)](https://dacon.io/myprofile/416700/home/)
-
 Notion(https://www.notion.so/276c865588b041c3b1e982d8fca2c51b)
 <br>
 
 ## 📑 Certificate
 
 [![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00?logo=tensorflow&logoColor=white)](https://www.credential.net/5b55228f-e4f8-48e3-b74c-c846b1c6313c)
-
 <br>
 
 ## 👨🏻‍💻 Tech Stack 
@@ -41,17 +39,9 @@ Notion(https://www.notion.so/276c865588b041c3b1e982d8fca2c51b)
 <p align="center">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>   
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-
-</p>
-<p align="center">
-    <img alt="Sgan" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>
-
 </p>
 <br>
 
 ## 📖 Repository
 
-A : Study
-B : Project
-C : Competition
-Z : Just Fun
+A : Study / B : Project / C : Competition / Z : Just Fun
