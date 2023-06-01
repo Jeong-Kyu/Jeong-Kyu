@@ -42,7 +42,5 @@ Notion(https://www.notion.so/276c865588b041c3b1e982d8fca2c51b)
 
 ## 📖 Repository
 
-<p>
 A : Study / B : Project / C : Competition / Z : Just Fun
 (It's convenient if you sort by Name.)
-</p>
